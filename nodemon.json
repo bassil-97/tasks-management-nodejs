@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "bassil_997",
+        "DB_PASSWORD": "bassa1122334455",
+        "DB_NAME": "mern",
+        "GOOGLE_API_KEY": "AIzaSyAasxE7z7HDMK5PSgrha3V966b5i3OFMNo",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
